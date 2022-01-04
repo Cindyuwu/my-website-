@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
+<h1> { colour:Green }
+       <h2> { colour:blue }
+       <h3> { colour:yellow}
+       backgound { background-color: Red}
+
 <li> <a href=index.html> home page </a> </li> 
 <li> <a href="page2.html"> page 2</a> </li> 
  
